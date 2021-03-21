@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="button">Button</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="sexo">Sexo</string>
+    <string name="edad">Edad</string>
+    <string name="grabar">Grabar</string>
+    <string name="cargar_datos">Cargar Datos</string>
+</resources>
